@@ -13,7 +13,7 @@ Leia 5 números inteiros e mostre a soma dos fatoriais desses números.
         <body>
             <p> Instruções:<br> Digite os numero em cada caixa de texto e aperte o botão "Calcular" </p>
             <div>
-                <form action="" method="post">
+                <form action="calcular.php" method="post">
                     <input type="number" name="n1">
                     <input type="number" name="n2">
                     <input type="number" name="n3">
