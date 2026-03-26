@@ -1,12 +1,3 @@
-<!--
-Data:25/03/26
-Nome:Daniel Mizael de Mesquita Ferreira
-Objetivo:
-
-Exercício 5 - Somatório de Fatoriais
-Leia 5 números inteiros e mostre a soma dos fatoriais desses números.
--->
-<!DOCTYPE html>
 
 <?php
 
