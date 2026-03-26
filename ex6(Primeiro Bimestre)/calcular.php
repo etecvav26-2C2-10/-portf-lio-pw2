@@ -1,11 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-    <a href="index.php">Retornar</a>
     <?php
         var_dump($_POST);
         $num = $_POST['num'];
@@ -21,8 +14,7 @@
 
         }
     ?>
-</body>
-</html>
+
 
 
 
