@@ -23,3 +23,12 @@ CREATE TABLE produtos (
 ) ENGINE=InnoDB
   DEFAULT CHARSET=utf8mb4
   COLLATE=utf8mb4_unicode_ci;
+
+-- Dados de exemplo
+INSERT INTO produtos (nome, fabricante, preco, estoque) VALUES
+    ('Dipirona 500mg',    'EMS',         5.90,  200),
+    ('Amoxicilina 500mg', 'Medley',     18.50,   80),
+    ('Omeprazol 20mg',    'Eurofarma',  12.00,  150),
+    ('Vitamina C 1g',     'Cimed',       8.75,  300),
+    ('Loratadina 10mg',   'Neo Química', 6.40,    8),
+    ('Paracetamol 750mg', 'Takeda',      4.50,    0);
