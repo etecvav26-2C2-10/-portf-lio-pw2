@@ -121,6 +121,7 @@ Apliquem a harmonia visual utilizando esta proporção:
 **Dica do Professor:** Lembrem-se que o GitHub é o currículo de vocês. Façam commits com mensagens claras (ex: *"Adicionado sistema de busca"*, *"Correção no CSS do rodapé"*).
 <br><br>
 <hr>
+
 # 🌐 Atividade — Planejamento e Proposta de Site
 
 ## 🎯 Objetivo
