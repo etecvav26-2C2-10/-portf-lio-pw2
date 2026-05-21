@@ -9,3 +9,6 @@ CREATE DATABASE IF NOT EXISTS farmacia_vav
     COLLATE utf8mb4_unicode_ci;
 
 USE farmacia_vav;
+
+-- Remove e recria a tabela
+DROP TABLE IF EXISTS produtos;
