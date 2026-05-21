@@ -1,12 +1,13 @@
 <?php
 // ============================================
 // Projeto Escolar: CRUD Farmácia VAV
-// Arquivo: config/conexao.example.php
-//
+// Arquivo: config/conexao.php
+// ============================================
+
 define('DB_HOST',    'localhost');
 define('DB_NAME',    'farmacia_vav');
-define('DB_USER',    'seu_usuario');   // ex: root
-define('DB_PASS',    'sua_senha');     // ex: 1234
+define('DB_USER', 'root');
+define('DB_PASS', ''); // Deixe totalmente vazio dentro das aspas simples
 define('DB_CHARSET', 'utf8mb4');
 
 function getConexao(): PDO
