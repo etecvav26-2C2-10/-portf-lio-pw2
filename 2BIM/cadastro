@@ -1,0 +1,11 @@
+<?php
+// ============================================
+// Projeto Escolar: CRUD Farmácia VAV
+// Arquivo: cadastro.php — Cadastro de produtos
+// ============================================
+
+require_once __DIR__ . '/config/conexao.php';
+
+$mensagem = '';
+$tipo     = '';
+$campos   = ['nome' => '', 'fabricante' => '', 'preco' => '', 'estoque' => ''];
