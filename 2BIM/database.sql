@@ -10,7 +10,7 @@ CREATE DATABASE IF NOT EXISTS farmacia_vav
 
 USE farmacia_vav;
 
--- Remove e recria a tabela
+-- Remove e recria a tabela 
 DROP TABLE IF EXISTS produtos;
 
 CREATE TABLE produtos (
@@ -27,8 +27,8 @@ CREATE TABLE produtos (
 -- Dados de exemplo
 INSERT INTO produtos (nome, fabricante, preco, estoque) VALUES
     ('Dipirona 500mg',    'EMS',         5.90,  200),
-    ('Amoxicilina 500mg', 'Medley',     18.50,   80),
-    ('Omeprazol 20mg',    'Eurofarma',  12.00,  150),
-    ('Vitamina C 1g',     'Cimed',       8.75,  300),
-    ('Loratadina 10mg',   'Neo Química', 6.40,    8),
-    ('Paracetamol 750mg', 'Takeda',      4.50,    0);
+    ('Amoxicilina 500mg', 'Medley',     18.50,  200),
+    ('Omeprazol 20mg',    'Eurofarma',  12.00,  200),
+    ('Vitamina C 1g',     'Cimed',       8.75,  200),
+    ('Loratadina 10mg',   'Neo Química', 6.40,  200),
+    ('Paracetamol 750mg', 'Takeda',      4.50,  200);
