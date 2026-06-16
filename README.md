@@ -106,6 +106,24 @@ Apresenta um campos de utilização para um atalho as áreas do site a quais sã
 - Uma descricão simples
 - Um botão de cor Laranja com texto "Explorar"
 
+<h3>Sobre</h3>
+
+-Apresenta o objetivo do site que pode ser revisitado em 🎯Objetivos , nessa mesma pagina.
+
+<h3>NBA</h3>
+Mostra 3 tópicos:
+
+- Liga Oficial
+- Superestrelas
+- Estastiscas
+
+<h3>FIBA</h3>
+Novamente demostra 3 tópicos:
+
+- Campeonato Mundial
+- Jpgos Olímpicos
+- Seleções Nacionais
+
 
 
 
