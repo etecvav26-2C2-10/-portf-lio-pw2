@@ -44,9 +44,9 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 Integrantes:
 
--Daniel Mizael
--João Paulo
--Pedro
+- Daniel Mizael
+- João Paulo
+- Pedro
 
 # Nome:
 
@@ -93,17 +93,17 @@ Temas:
 <h3>Menu</h3>
 Apresenta um campos de utilização para um atalho as áreas do site a quais são:
 
--Home
--Sobre
--NBA
--FIBA
--Comparação
--Contato
+- Home
+- Sobre
+- NBA
+- FIBA
+- Comparação
+- Contato
 
 <h3>Home</h3>
--Apresenta uma imagem
--Uma descricão simples
--Um botão de cor Laranja com texto "Explorar"
+- Apresenta uma imagem
+- Uma descricão simples
+- Um botão de cor Laranja com texto "Explorar"
 
 
 
