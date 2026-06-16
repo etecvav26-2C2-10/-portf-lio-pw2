@@ -101,6 +101,7 @@ Apresenta um campos de utilização para um atalho as áreas do site a quais sã
 - Contato
 
 <h3>Home</h3>
+
 - Apresenta uma imagem
 - Uma descricão simples
 - Um botão de cor Laranja com texto "Explorar"
